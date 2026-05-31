@@ -1,4 +1,5 @@
 import { test, expect } from '@playwright/test';
+// SauceDemo E2E Tests — Week 3-5 exercises
 
 test.describe('SauceDemo', () => {
 
